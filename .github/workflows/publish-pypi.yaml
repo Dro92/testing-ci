@@ -1,4 +1,4 @@
-name: Publish - PyPI Upload Upon Release
+name: Publish - PyPI On Release
 
 on:
   # Workflow run used here otherwise semantic release needs to be configured
