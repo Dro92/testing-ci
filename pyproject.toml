@@ -38,7 +38,7 @@ commit_message = "chore(release): {version}"
 commit_parser = "conventional"
 tag_format =  "{version}"
 version_source = "tag"
-allow_zero_version = True
+allow_zero_version = true
 
 [tool.semantic_release.branches]
 main = { match = "main", prelease = false}
